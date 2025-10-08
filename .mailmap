@@ -1,6 +1,11 @@
-# Map any historical Pinocchio identities to MattU27 for contributor stats
-# Format: Proper Name <proper@email> Alias Name <alias@email>
-MattU27 <MattU27@users.noreply.github.com> Pinocchio <jenjiliv@gmail.com>
-MattU27 <MattU27@users.noreply.github.com> pinocchio <jenjiliv@gmail.com>
-MattU27 <MattU27@users.noreply.github.com> Pinoccchio <jenjiliv@gmail.com>
+# Mailmap to consolidate contributor identities under your account
+# Format: Canonical Name <canonical@email> Alias Name <alias@email>
+
+# Canonical identity (your email)
+MattU27 <bantojs@students.national-u.edu.ph> MattU27 <MattU27@users.noreply.github.com>
+
+# Map any Pinocchio variants to you
+MattU27 <bantojs@students.national-u.edu.ph> Pinocchio <jenjiliv@gmail.com>
+MattU27 <bantojs@students.national-u.edu.ph> pinocchio <jenjiliv@gmail.com>
+MattU27 <bantojs@students.national-u.edu.ph> Pinoccchio <jenjiliv@gmail.com>
 
